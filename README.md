@@ -1,0 +1,1 @@
+# Lexient: AI-Powered Second Brain
